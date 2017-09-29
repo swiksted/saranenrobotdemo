@@ -14,7 +14,6 @@ ${ERROR PAGE}        ${LOGIN PAGE}/error.html
 
 Valid Login
     Go To Login Page
-    Fail                            Purposefully failed!
     Input Credentials And Log In    ${VALID USERNAME}    ${VALID PASSWORD}
     Welcome Page SHould Be Open     
 
